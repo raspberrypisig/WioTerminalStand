@@ -22,6 +22,8 @@ Something like this:
 
 DXF files for Wio Terminal [here](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/#resources)
 
+Dimensions of enclosure are
+
 ### Inspiration for Stand
 
 Article on Air Quality Monitoring Station with Wio Terminal [here]()
