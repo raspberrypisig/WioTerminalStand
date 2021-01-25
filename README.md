@@ -18,6 +18,8 @@ Something like this:
 
 ![Wio Terminal Hardware overview](https://raw.githubusercontent.com/raspberrypisig/WioTerminalStand/main/WioT-Hardware-Overview.png)
 
+![Wio Terminal Pinouts](https://github.com/raspberrypisig/WioTerminalStand/raw/main/WioT-Pinout.jpg)
+
 ### Inspiration for Stand
 
 Article on Air Quality Monitoring Station with Wio Terminal [here]()
