@@ -20,6 +20,8 @@ Something like this:
 
 ![Wio Terminal Pinouts](https://github.com/raspberrypisig/WioTerminalStand/raw/main/WioT-Pinout.jpg)
 
+DXF files for Wio Terminal [here](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/#resources)
+
 ### Inspiration for Stand
 
 Article on Air Quality Monitoring Station with Wio Terminal [here]()
