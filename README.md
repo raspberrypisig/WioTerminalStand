@@ -22,7 +22,7 @@ Something like this:
 
 DXF files for Wio Terminal [here](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/#resources)
 
-Dimensions of enclosure are
+Dimensions of enclosure are 72mm*57mm*12mm
 
 ### Inspiration for Stand
 
