@@ -24,17 +24,15 @@ Something like this:
 
 Article on Air Quality Monitoring Station with Wio Terminal [here]()
 
+![Wio Terminal Stand Photo 1](https://raw.githubusercontent.com/raspberrypisig/WioTerminal/master/resources/photo1.jpg)
+
+![Wio Terminal Stand Photo 2](https://raw.githubusercontent.com/raspberrypisig/WioTerminalStand/main/photo_2020-09-06_09-17-46_tfZrVfanUV.jpg)
+
+![Wio Terminal Stand Photo 3](https://raw.githubusercontent.com/raspberrypisig/WioTerminalStand/main/photo_2020-09-06_09-17-49_nZvhcYjzYV.jpg)
+
+![Wio Terminal Stand Photo 4](https://raw.githubusercontent.com/raspberrypisig/WioTerminalStand/main/photo_2020-09-06_09-17-49_(2)_yGJTb0UMWO.jpg)
+
+### Design Requirements
 
 
-
-
-
-
-### Inspiration
-
-### Background
-
-### Objective
-
-### Design mods
 
