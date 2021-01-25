@@ -32,6 +32,8 @@ Article on Air Quality Monitoring Station with Wio Terminal [here]()
 
 ![Wio Terminal Stand Photo 4](https://raw.githubusercontent.com/raspberrypisig/WioTerminalStand/main/photo_2020-09-06_09-17-49_(2)_yGJTb0UMWO.jpg)
 
+[2d drawings approximate](https://github.com/raspberrypisig/WioTerminalStand/blob/main/wioterminalstand2d%20Drawing%20v4.pdf)
+
 ### Design Requirements
 
 
