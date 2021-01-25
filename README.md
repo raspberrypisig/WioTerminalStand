@@ -1,6 +1,6 @@
 # Wio Terminal Stand
 
-Want to make a stand for the Wio Terminal.
+Want to make a stand for the [Wio Terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/)
 
 Something like this:
 
