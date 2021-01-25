@@ -8,10 +8,12 @@ Something like this:
 
 ### Introducing Wio Terminal
 
-
+![Wio Terminal Main Picture](https://raw.githubusercontent.com/raspberrypisig/WioTerminalStand/main/Wio-Terminal-Wiki.jpg)
 
 
 ### Inspiration for Stand
+
+Article on Air Quality Monitoring Station with Wio Terminal [here]()
 
 
 
